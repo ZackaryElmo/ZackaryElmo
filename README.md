@@ -1,5 +1,6 @@
 ## Hi there 👋
 ### My portfolio page: https://zackaryelmo.github.io/PortfolioSite/
+### My LinkedIn: https://www.linkedin.com/in/zackaryelmo/
 <!--
 **ZackaryElmo/ZackaryElmo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
